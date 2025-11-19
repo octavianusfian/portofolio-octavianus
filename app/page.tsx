@@ -11,7 +11,7 @@ export default function Home() {
       <main className="max-w-6xl mx-auto py-10 px-6 space-y-20">
         {/* HERO SECTION */}
         <section className="flex ">
-          <div className="w-1/2">
+          <div className="w-full md:w-1/2">
             <h2 className="text-[#4FBDBA] text-3xl font-semibold">
               Hello, i’m Octavianus Fian
             </h2>
@@ -45,7 +45,7 @@ export default function Home() {
               </a>
             </div>
           </div>
-          <div className="w-1/2">
+          <div className="hidden md:block md:w-1/2">
             <Image
               alt="picture"
               className="ml-50 w-[300px]"
