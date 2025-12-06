@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Next.js Developer Portfolio
 
-## Getting Started
+Welcome to my portfolio!
+This project showcases my skills and experience in building modern, high-performance web applications using **Next.js, React, TypeScript**, and various supporting technologies.
 
-First, run the development server:
+My goal as a **freelance Next.js developer** is to help businesses and individuals build fast, scalable, and user-friendly digital products.
+
+--- 
+
+## 📌 Features
+This portfolio includes:
+
+### ✨ Modern Frontend Development
+- Built with **Next.js App Router**
+- Server Components & Client Components best-practice architecture
+- Responsive UI powered by Tailwind CSS / Ant Design (adjust based on your project)
+- SEO-friendly structure with correct metadata setup
+- Image optimization with next/image
+
+### 💼 Projects Section
+- Collection of real or concept projects showcasing:
+- API integration
+- State management (Redux, Zustand, or Context API)
+- UI/UX implementation
+- Reusable and scalable component patterns
+
+### 🧩 Reusable Components
+- Modular design
+- Clean folder structure
+
+### 📱 Fully Responsive
+- Desktop, tablet, and mobile views optimised
+- Consistent layout and typography
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js 14 (App Router)**
+- **TypeScript/Javascript**
+- **Tailwind CSS, Ant Design, or Custom CSS**
+- **Redux Toolkit, Zustand, or Custom CSS**
+- **Vercel** (deployment target)
+
+---
+
+## 📂 Project Structure
+
+/
+├─ app/
+│  ├─ layout.tsx
+│  ├─ page.tsx
+│  ├─ projects/
+│  ├─ contact/
+│  └─ components/
+├─ public/
+├─ styles/
+├─ utils/
+└─ README.md
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/<your-username>/portfolio-octavianus.git
+cd portfolio-octavianus
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+----
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📬 Contact
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+If you're interested in working together, feel free to reach out:
 
-## Learn More
+- 🌐 Portfolio:[ https://portofolio-octavianus.com](https://portofolio-octavianus.vercel.app/)
+- 📧 Email: octavianus.fian@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/octavianusfian
+- 💻 GitHub: https://github.com/octavianusfian
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
