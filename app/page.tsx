@@ -26,7 +26,7 @@ export default function Home() {
             </p>
             <div className="flex mt-4 items-center  gap-4">
               <a
-                href="mailto:octavianus.fian@gmail.com"
+                href="https://wa.me/+6281315378077"
                 className="px-4 py-2 rounded bg-[#AEFEFF] text-black shadow"
               >
                 Contact Me
