@@ -8,11 +8,9 @@ My goal as a **freelance Next.js developer** is to help businesses and individua
 ---
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&style=flat)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwindcss&style=flat)
-![Prisma](https://img.shields.io/badge/Prisma-5-2D3748?logo=prisma&style=flat)
-![Supabase](https://img.shields.io/badge/Supabase-1-3ECF8E?logo=supabase&style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## 📌 Features
 
