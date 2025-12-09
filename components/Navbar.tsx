@@ -6,9 +6,9 @@ const Navbar = () => {
     <nav className="w-full py-9 px-6">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <div className="flex gap-5 items-center">
-          <Image alt="avatar" src={"/avatar.png"} width={100} height={100} />
+          <Image alt="avatar" src={"/logo.png"} width={100} height={100} className="rounded-lg"/>
           <span className="text-2xl font-semibold text-[#AEFEFF]">
-            Octavianus.dev
+            Fian.dev
           </span>
         </div>
         <div className="text-white font-semibold">

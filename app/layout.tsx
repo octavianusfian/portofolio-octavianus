@@ -13,8 +13,45 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Octavianus - React/Next Js Developer",
-  description: "React/Next Js Developer",
+  title: "Fian.dev — Fullstack Developer",
+  description:
+    "Portfolio of Octavianus Fian, a Fullstack Developer specializing in React, Next.js, Tailwind CSS, and modern web development.",
+  keywords: [
+    "Fian.dev",
+    "Octavianus Fian",
+    "Frontend Developer",
+    "Fullstack Developer",
+    "React Developer",
+    "Next.js Developer",
+    "Web Developer Portfolio",
+    "JavaScript",
+    "Tailwind CSS",
+  ],
+  creator: "Octavianus Fian",
+  publisher: "Fian.dev",
+  openGraph: {
+    title: "Fian.dev — Fullstack Developer",
+    description:
+      "React & Next.js Fullstack Developer. Explore my projects, skills, and experience.",
+    siteName: "Fian.dev",
+    url: "https://portofolio-octavianus.vercel.app",
+    type: "website",
+    locale: "en_US",
+    images: [
+      {
+        url: "/og-image.png", // put your OG image here
+        width: 1200,
+        height: 630,
+        alt: "Fian.dev — Fullstack Developer Portfolio",
+      },
+    ],
+  },
+
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-logo.png",
+  },
 };
 
 export default function RootLayout({

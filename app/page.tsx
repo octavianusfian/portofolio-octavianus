@@ -1,3 +1,4 @@
+import AboutSection from "@/components/AboutSection";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import ProjectCard from "@/components/ProjectCard";
@@ -12,7 +13,7 @@ export default function Home() {
         {/* HERO SECTION */}
         <section className="flex ">
           <div className="w-full md:w-1/2">
-            <h2 className="text-[#4FBDBA] text-3xl font-semibold">
+            <h2 className="text-[#033d3b] text-3xl font-semibold">
               Hello, i’m Octavianus Fian
             </h2>
             <h2 className="mt-9 text-white text-4xl font-semibold leading-normal">
@@ -55,6 +56,9 @@ export default function Home() {
             />
           </div>
         </section>
+        {/* ABOUT SECTION */}
+        <AboutSection />
+
         {/* PROJECT SECTION */}
         <section id="projects">
           <SectionTitle title="Projects" />
