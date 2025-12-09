@@ -5,12 +5,21 @@ This project showcases my skills and experience in building modern, high-perform
 
 My goal as a **freelance Next.js developer** is to help businesses and individuals build fast, scalable, and user-friendly digital products.
 
---- 
+---
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&style=flat)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwindcss&style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-5-2D3748?logo=prisma&style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-1-3ECF8E?logo=supabase&style=flat)
 
 ## 📌 Features
+
 This portfolio includes:
 
 ### ✨ Modern Frontend Development
+
 - Built with **Next.js App Router**
 - Server Components & Client Components best-practice architecture
 - Responsive UI powered by Tailwind CSS / Ant Design (adjust based on your project)
@@ -18,6 +27,7 @@ This portfolio includes:
 - Image optimization with next/image
 
 ### 💼 Projects Section
+
 - Collection of real or concept projects showcasing:
 - API integration
 - State management (Redux, Zustand, or Context API)
@@ -25,10 +35,12 @@ This portfolio includes:
 - Reusable and scalable component patterns
 
 ### 🧩 Reusable Components
+
 - Modular design
 - Clean folder structure
 
 ### 📱 Fully Responsive
+
 - Desktop, tablet, and mobile views optimised
 - Consistent layout and typography
 
@@ -48,11 +60,11 @@ This portfolio includes:
 
 /
 ├─ app/
-│  ├─ layout.tsx
-│  ├─ page.tsx
-│  ├─ projects/
-│  ├─ contact/
-│  └─ components/
+│ ├─ layout.tsx
+│ ├─ page.tsx
+│ ├─ projects/
+│ ├─ contact/
+│ └─ components/
 ├─ public/
 ├─ styles/
 ├─ utils/
@@ -81,7 +93,7 @@ npm install
 npm run dev
 ```
 
-----
+---
 
 ## 📬 Contact
 
@@ -91,4 +103,3 @@ If you're interested in working together, feel free to reach out:
 - 📧 Email: octavianus.fian@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/octavianusfian
 - 💻 GitHub: https://github.com/octavianusfian
-
